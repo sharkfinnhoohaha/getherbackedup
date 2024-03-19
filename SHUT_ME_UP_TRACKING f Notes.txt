@@ -1,0 +1,71 @@
+--------------------------------------------------------------------------------
+Notes
+--------------------------------------------------------------------------------
+Omitted Tracks
+Track "KIT.08" was dropped because the maximum number of disk tracks was exceeded
+Track "OHL.08" was dropped because the maximum number of disk tracks was exceeded
+Track "OHR.08" was dropped because the maximum number of disk tracks was exceeded
+Track "BASS_LIVE.01" was dropped because the maximum number of disk tracks was exceeded
+Track "bass yamaha.01" was dropped because the maximum number of disk tracks was exceeded
+Track "JUNO_1" was dropped because the maximum number of disk tracks was exceeded
+Track "JUNO_1.dup1" was dropped because the maximum number of disk tracks was exceeded
+Track "JUNO_1.dup2" was dropped because the maximum number of disk tracks was exceeded
+Track "AARON EGT" was dropped because the maximum number of disk tracks was exceeded
+Track "AARON EGT.dup1" was dropped because the maximum number of disk tracks was exceeded
+Track "FINN_EGT_1.01" was dropped because the maximum number of disk tracks was exceeded
+Track "CLICK" was dropped because the maximum number of aux tracks was exceeded
+Track "90s Solid Synth Bass_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Analog Fizz Lead_1" was dropped because the maximum number of disk tracks was exceeded
+Track "BASS CHORUS_1" was dropped because the maximum number of disk tracks was exceeded
+Track "BASS VERSE_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Clap_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Fifties SciFi_1" was dropped because the maximum number of disk tracks was exceeded
+Track "OO cool_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Simple Analog Lead_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Snap_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vintage Machines_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vox_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vox 2_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vox 3_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vox 4_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vox 5_1" was dropped because the maximum number of disk tracks was exceeded
+Track "Vox 6_1" was dropped because the maximum number of disk tracks was exceeded
+Track "BASS.02" was dropped because the maximum number of disk tracks was exceeded
+Track "DAVE BASS" was dropped because the maximum number of aux tracks was exceeded
+Track "LV_1.50" was dropped because the maximum number of disk tracks was exceeded
+Track "LV 710" was dropped because the maximum number of disk tracks was exceeded
+Track "LV VERB" was dropped because the maximum number of aux tracks was exceeded
+Track "LV EXTRA DELAY" was dropped because the maximum number of aux tracks was exceeded
+Track "LV BUS" was dropped because the maximum number of aux tracks was exceeded
+Track "BGV_1.02" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_1.dup1.01" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_1.dup2.01" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_1.dup3.02" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_1.dup1.02" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_1.dup2.02" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_1_BUS" was dropped because the maximum number of aux tracks was exceeded
+Track "SHUTMEUP HARMONIES_7#01" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_8#02" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_9#01" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV V2.01" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV V2.dup1.02" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV V2.dup2.04" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_V2_BUS" was dropped because the maximum number of aux tracks was exceeded
+Track "BGV_PRE_1.02" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_PRE_1.dup1.04" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_BRIDGE" was dropped because the maximum number of aux tracks was exceeded
+Track "BGV V2.dup1.08" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV V2.dup2.09" was dropped because the maximum number of disk tracks was exceeded
+Track "BGV_bridge" was dropped because the maximum number of aux tracks was exceeded
+Track "SHUTMEUP HARMONIES_2#01" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_3#01" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_4#01" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_5#01" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_4#02" was dropped because the maximum number of disk tracks was exceeded
+Track "SHUTMEUP HARMONIES_6#01" was dropped because the maximum number of disk tracks was exceeded
+Track "V2 HIGH HARMONY L#01" was dropped because the maximum number of disk tracks was exceeded
+Track "V2 LOW HARMONY L#01" was dropped because the maximum number of disk tracks was exceeded
+Track "Aux 1" was dropped because the maximum number of aux tracks was exceeded
+Track "2BUS" was dropped because the maximum number of aux tracks was exceeded
+
+
